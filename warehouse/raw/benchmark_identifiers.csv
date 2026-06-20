@@ -1,0 +1,16 @@
+ask_id,sec_name,mf_cate,secid
+A001,S&P 500 TR USD,US Large Cap,XIUSA04G92
+A002,Bloomberg Municipal TR USD,municipal_debt,XIUSA000MO
+A003,Bloomberg Municipal 1 Yr 1-2 TR USD,short_term_municipal_debt,FOUSA06D35
+A004,Bloomberg US Agg Bond TR USD,us_agg,XIUSA000MC
+A005,Bloomberg Global Aggregate TR USD,,XIUSA000CU
+A006,Bloomberg US Aggregate 1-3 Yr TR USD,short_term_us_agg,FOUSA06MFO
+A007,Bloomberg Gbl Agg 1-3 Yr TR USD,,FOUSA05QBM
+A008,Bloomberg US Corporate High Yield TR USD,us_high_yield_debt,XIUSA000C3
+A009,JPM EMBI Global TR USD,em_debt,FOUSA06CYX
+A010,USTREAS T-Bill Auction Ave 3 Mon,,XIUSA000OC
+A011,Russell Mid Cap TR USD,US Mid Cap,XIUSA000L2
+A012,Russell 2000 TR USD,US Small Cap,XIUSA000O5
+A013,MSCI EAFE NR USD,non_us_equity,XIUSA000PK
+A014,MSCI EM NR USD,em_equity,XIUSA04F2T
+A015,S&P United States REIT TR USD,us_reit,FOUSA08NXG

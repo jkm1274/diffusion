@@ -1,0 +1,6 @@
+
+
+===== Log started on 2025-06-22 10:31:25 =====
+>>>>>>>start training : diffusion_denoised_x_UniTST_MP_ALL_Benchmark_KL2_N+Corr+FFT_sl128_dm384_ds0_cmTrue_ceTrue_ipTrue_RoPE>>>>>>>>>>>>>>>>>>>>>>>>>>
+DataLoader: 44208
+===== Log ended on 2025-06-22 10:32:06 =====
